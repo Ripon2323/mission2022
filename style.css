@@ -116,3 +116,47 @@ section{
     background-position-y:bottom;
 
 }
+
+.contact-part{
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: 100;
+    border: 2px solid black;
+}
+
+.btn{
+    border: none;
+    padding: 30px 20px;
+    font-size: 2rem;
+    border-radius: 50%;
+    background-color: gray;
+    margin-left: 10px;
+
+}
+
+.btn1{
+    margin-top: 10px;
+}
+#contact-header{
+ padding-bottom: 30px;
+}
+.footer{
+    background-color: #0B0D17;
+}
+.footer-part{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.footer-part h2{
+    color: white;
+}
+.footer-part h2 span{
+    color: #FF5959;
+}
+.footer-part p{
+    color: #A2A4AB;
+    font-size: 15px;
+}
